@@ -26,21 +26,32 @@ My current research interests lie in **3D Computer Vision** ✨ and **Embodied A
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- # 📝 Publications  -->
+# 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<p style="color: #3f446a; margin: 0%; font-weight: 350;">* Indicates Equal Contribution † Indicates Corresponding Author</p>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICCV 2025</div>
+      <img src='images/dexh2r.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  [DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover](https://dexh2r.github.io/)
+  <p>
+  Youzhuo Wang*, <b>Jiayi Ye*</b>, Chuyang Xiao, Yiming Zhong, Heng Tao, Hang Yu, Yumeng Liu, Jingyi Yu, Yuexin Ma†
+  </p>
+  <p>
+  This paper proposes <span style="color: #184cff; font-weight: bold;">DexH2R</span>, the first real human-to-robot handover dataset, and establishes an effective and practical solution, DynamicGrasp, together with a comprehensive benchmark for human-to-robot handover.
+  </p>
+  <a href="https://arxiv.org/pdf/2506.23152.pdf" class="btn" target="_blank">PDF <i class="fas fa-file-pdf"></i></a>
+  <a href="https://dexh2r.github.io/" class="btn" target="_blank">Page <i class="fas fa-external-link-alt"></i></a>
+  <a href="https://github.com/4DVLab/DexH2R" class="btn" target="_blank">Github <i class="fab fa-github"></i></a>
+  </div>
+  </div>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2024.06* Title of **Shanghai Outstanding Graduate** 2024. 

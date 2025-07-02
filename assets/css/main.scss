@@ -107,3 +107,22 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.btn {
+    display: inline-block;
+    padding: 4px 10px;
+    margin: 2px 2px 2px 0;
+    font-size: 1em; // 与正文内容相同
+    font-weight: 500;
+    color: #000 !important; // 强制字体为黑色
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background 0.2s;
+}
+.btn:hover {
+    background-color: #e0e0e0;
+    text-decoration: none;
+    color: #000 !important; // 悬停时也保持黑色
+}
